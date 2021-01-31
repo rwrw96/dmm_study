@@ -13,4 +13,5 @@ for i in 1..n do
 end
 puts "計算を終了致します"
 
+puts "hello"
 
